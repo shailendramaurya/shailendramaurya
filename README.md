@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Lovely**
 
-- 📫 How to reach me **shailendramaurya@duck.com**
+- 📫 How to reach me **shailendramaurya.in@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
