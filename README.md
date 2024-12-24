@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Med Student</h1>
+<h1 align="center">Hi 👋, I'm Shailendra </h1>
+<h3 align="center">Full time medico, Part time Dev</h3>
 <br>
 
 - 🤝 Contributions are always welcome !
@@ -7,9 +8,11 @@
 
 <h3 align="left">>></h3>
 <p align="left">Most of my projects aren't here, planning to push them soon ^_^ </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/shailendramaurya/shailendramaurya/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+<img src="https://raw.githubusercontent.com/shailendramaurya/shailendramaurya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</p>
 
-![Snake animation](https://github.com/shailendramaurya/shailendramaurya/blob/output/snake.svg)
-<br>
  <p align="center">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="golang" style="vertical-align:top margin:6px 4px">
    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top margin:6px 4px">
